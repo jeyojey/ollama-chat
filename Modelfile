@@ -1,0 +1,5 @@
+FROM phi
+PARAMETER num_gpu 99
+PARAMETER num_thread 8
+PARAMETER f16_kv true
+PARAMETER gpu_layers -1 
